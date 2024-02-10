@@ -10,7 +10,7 @@ GPSDO using a cheap used OCXO purchased from Aliexpress. It has 10MHz square wav
 
 The 10MHz input SMA connector is located on the back panel of my HL2+. Also, my GPSDO has 10MHz output SMA connector not only on the front panel but also on the back panel. Therefore, these back connectors are connected using a coaxial cable.
 
-<img src="Doc/GPSDO_internal_view.jpg" width="400px">  
+<img src="Doc/GPSDO_Internal_view.jpg" width="400px">  
 
 ## Operation
 1. After powering on, wait for the OCXO to warm up to the preset temperature. The default temperature setting is 30 degree C.
