@@ -24,7 +24,7 @@ The 10MHz input SMA connector is located on the back panel of my HL2+. Also, my 
 <img src="Doc/GPSDO_OLED_display.jpg" width="400px"> 
 
 ## Performance
-I checked the accuracy of the frequency of GPSDO output. I made two GPSDOs. Their sine wave outputs are each synchronized to GPS. I input them into my oscilloscope and had them draw a Lissajous curve. Since the Lissajous curve is extremely stable and can take more than 1000 seconds to complete one rotation, I confirmed that the frequency error is on the order of milliseconds.  
+I checked the accuracy of the frequency of GPSDO output. I made two GPSDOs. Their sine wave outputs are each synchronized to GPS. I input them into my oscilloscope and had them draw a Lissajous curve. Since the Lissajous curve is extremely stable and can take more than 1000 seconds to complete one rotation, I confirmed that the frequency error is on the order of millihertz.  
 <img src="Doc/GPSDO_accuracy.jpg" width="400px"> 
 
 ## STM32 programming
